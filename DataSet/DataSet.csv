@@ -1,0 +1,88 @@
+id,name
+1,<startofstring>What are the opening and closing hours of Arcadian Cafe? <bot>: Arcadian Cafe is open from 11:30 AM - 12:00 AM <endofstring>
+2,<startofstring>What are the timings of Arcadian Cafe? <bot>: Arcadian Cafe is open from 11:30 AM - 12:00 AM <endofstring>
+3,<startofstring>What is the price range for dining at Arcadian Cafe? <bot>: The price range at Arcadian Cafe is moderate to high<endofstring>
+4,<startofstring>What is the price range of dishes at Arcadian Cafe? <bot>: The price range at Arcadian Cafe is moderate to high<endofstring>
+5,<startofstring> Tell me the price range of Arcadian Cafe. <bot>: The price range at Arcadian Cafe is moderate to high<endofstring>
+6,"<startofstring>What type of cuisine does Arcadian Cafe offer? <bot>: Italian, Cafe, Fusion<endofstring>"
+7,"<startofstring>Can you provide the menu items at Arcadian Cafe? <bot>: black pepper Asian, garlic butter steak, crispy battered fish, apple mint, bread pudding<endofstring>"
+8,"<startofstring>What is the menu of Arcadian Cafe? <bot>: black pepper Asian, garlic butter steak, crispy battered fish, apple mint, bread pudding<endofstring>"
+9,"<startofstring>Show me the menu of Arcadian Cafe. <bot>: black pepper Asian, garlic butter steak, crispy battered fish, apple mint, bread pudding<endofstring>"
+10,"<startofstring>Where is Arcadian Cafe located? <bot>: Packages Mall Shop G22 Ground Floor Entrance Number 4, Lahore <endofstring>"
+11,"<startofstring> What is the location of Arcadian Cafe? <bot>: Packages Mall Shop G22 Ground Floor Entrance Number 4, Lahore <endofstring>"
+12,"<startofstring>What type of cuisine does Veera 5 restaurant offer? <bot>: Veera 5 offers Chinese, Asian, and Thai cuisine. <endofstring>"
+13,"<startofstring>Where is Veera 5 restaurant located? (Address) <bot>: Veera 5 is located at Building 80, sector CCA, Phase 5 DHA, Lahore. <endofstring>"
+14,"<startofstring> What is the location of Veera 5 restaurant? (Address) <bot>: Veera 5 is located at Building 80, sector CCA, Phase 5 DHA, Lahore. <endofstring>"
+15,"<startofstring> Tell me the address of Veera 5 restaurant. <bot>: Veera 5 is located at Building 80, sector CCA, Phase 5 DHA, Lahore. <endofstring>"
+16,<startofstring>What is the price range for dining at Veera 5 restaurant? <bot>: The price range at Veera 5 is low <endofstring>
+17,<startofstring>What is the price range of dishes at Veera 5 restaurant? <bot>: The price range at Veera 5 is low <endofstring>
+18,<startofstring>What is the price range of Veera 5 restaurant? <bot>: The price range at Veera 5 is low <endofstring>
+19,<startofstring>What are the opening and closing hours of Veera 5 restaurant? <bot>: Veera 5 is open from 1:00 PM to 12:00 AM. <endofstring>
+20,<startofstring>What are the timings of Veera 5? <bot>: Veera 5 is open from 1:00 PM to 12:00 AM.<endofstring>
+21,"<startofstring>Can I see the menu of Veera 5 restaurant? <bot>: chicken chowmein, Thai chili paste chicken, beef with broccoli, lime fish, and prawns in garlic sauce. <endofstring>"
+22,"<startofstring>What is the menu of Veera 5 restaurant? <bot>: chicken chowmein, Thai chili paste chicken, beef with broccoli, lime fish, and prawns in garlic sauce. <endofstring>"
+23,"<startofstring>Show me the menu of Veera 5 restaurant. <bot>: chicken chowmein, Thai chili paste chicken, beef with broccoli, lime fish, and prawns in garlic sauce. <endofstring>"
+24,"<startofstring>What type of cuisine does Monal Lahore restaurant offer? <bot>: Monal Lahore offers barbecue, Asian, and Pakistani cuisine. <endofstring>"
+25,"<startofstring>Where is Monal Lahore restaurant located? (Address) <bot>: Monal Lahore is located at Park and Ride Plaza, Liberty Roundabout, Lahore <endofstring>"
+26,"<startofstring> What is the location of Monal restaurant?<bot>: Monal Lahore is located at Park and Ride Plaza, Liberty Roundabout, Lahore <endofstring>"
+27,"<startofstring>tell me the address of Monal Lahore restaurant.<bot>: Monal Lahore is located at Park and Ride Plaza, Liberty Roundabout, Lahore <endofstring>"
+28,<startofstring>What is the price range for dining at Monal Lahore restaurant? <bot>: The price range at Monal Lahore is moderate to high. <endofstring>
+29,<startofstring>What is the price range of dishes at Monal Lahore restaurant? <bot>: The price range at Monal Lahore is moderate to high. <endofstring>
+30,<startofstring>What are Monal Lahore restaurant's opening and closing hours? <bot>: Monal Lahore is open from 1:00 PM to 11:00 PM. <endofstring>
+31,<startofstring>What are the timings of Monal? <bot>: Monal Lahore is open from 1:00 PM to 11:00 PM. <endofstring>
+32,"<startofstring>Can I see the menu of Monal Lahore restaurant? <bot>: chicken gola kabab, Moroccan chicken, Chinese fried rice, mutton karahi, and gulab jamun. <endofstring>"
+33,"<startofstring>What is the menu of Monal? <bot>: chicken gola kabab, Moroccan chicken, Chinese fried rice, mutton karahi, and gulab jamun. <endofstring>"
+34,"<startofstring>Shoe me the menu of Monal? <bot>: chicken gola kabab, Moroccan chicken, Chinese fried rice, mutton karahi, and gulab jamun. <endofstring>"
+35,"<startofstring>What type of cuisine does Pablo's restaurant offer? <bot>: Pablo's offers American, pizza, and fast food cuisine. <endofstring>"
+36,"<startofstring>Where is Pablo's restaurant located? (Address) <bot>: Pablo's is located at 7 Civic Centre, Block D 2 Phase 1 Johar Town, Lahore <endofstring>"
+37,"<startofstring>Where is the location of Pablo's restaurant? (Address) <bot>: Pablo's is located at 7 Civic Centre, Block D 2 Phase 1 Johar Town, Lahore <endofstring>"
+38,"<startofstring> Tell me the Address of Pablo's restaurant. <bot>: Pablo's is located at 7 Civic Centre, Block D 2 Phase 1 Johar Town, Lahore <endofstring>"
+39,<startofstring>What is the price range for dining at Pablo's restaurant? <bot>: The price range at Pablo's is low <endofstring>
+40,<startofstring>What is the price range of dishes at Pablo's restaurant? <bot>: The price range at Pablo's is low <endofstring>
+41,<startofstring>tell me the price range of Pablo's restaurant. <bot>: The price range at Pablo's is low <endofstring>
+42,<startofstring>What are the opening and closing hours of Pablo's restaurant? <bot>: Pablo's is open from 12:00 AM to 11:59 PM. <endofstring>
+43,<startofstring>What are the timings of Pablo's restaurant? <bot>: Pablo's is open from 12:00 AM to 11:59 PM. <endofstring>
+44,"<startofstring>Can I see the menu of Pablo's restaurant? <bot>: fajita pasta, crispy chicken wrap, garlic mayo fries, pink pasta, and molten lava wrap. <endofstring>"
+45,"<startofstring>Show me the menu of Pablo's restaurant. <bot>: fajita pasta, crispy chicken wrap, garlic mayo fries, pink pasta, and molten lava wrap. <endofstring>"
+46,"<startofstring>What is the menu of Pablo's restaurant? <bot>: fajita pasta, crispy chicken wrap, garlic mayo fries, pink pasta, and molten lava wrap. <endofstring>"
+47,"<startofstring>What type of cuisine does Cafe Aylanto offer? <bot>: Cafe Aylanto offers international, Mediterranean, and European cuisine. <endofstring>"
+48,"<startofstring>Where is Cafe Aylanto located? (Address) <bot>: Cafe Aylanto is located at 12-C-1 MM Alam Rd Gulberg, Lahore <endofstring>"
+49,"<startofstring> What is the location of Cafe Aylanto? (Address) <bot>: Cafe Aylanto is located at 12-C-1 MM Alam Rd Gulberg, Lahore <endofstring>"
+50,"<startofstring>tell me the Address of Cafe Aylanto. <bot>: Cafe Aylanto is located at 12-C-1 MM Alam Rd Gulberg, Lahore <endofstring>"
+51,<startofstring>What is the price range for dining at Cafe Aylanto? <bot>: The price range at Cafe Aylanto is very high <endofstring>
+52,<startofstring>What is the price range of dishes at Cafe Aylanto? <bot>: The price range at Cafe Aylanto is very high <endofstring>
+53,<startofstring> Tell me the price range of Cafe Aylanto. <bot>: The price range at Cafe Aylanto is very high <endofstring>
+54,<startofstring>What are the timings of Cafe Aylanto? <bot>: Cafe Aylanto is open from 12:00 PM to 12:00 AM. <endofstring>
+55,<startofstring>What are the opening and closing hours of Cafe Aylanto? <bot>: Cafe Aylanto is open from 12:00 PM to 12:00 AM. <endofstring>
+56,"<startofstring>Can I see the Cafe Aylanto menu? <bot>: OVEN BAKED FISH, KALAMATA CHICKEN, SPICY LAMB CHOPS, MEXICAN BURGER, and FUDGE CAKE. <endofstring>"
+57,"<startofstring>What is the menu of Cafe Aylanto? <bot>: OVEN BAKED FISH, KALAMATA CHICKEN, SPICY LAMB CHOPS, MEXICAN BURGER, and FUDGE CAKE. <endofstring>"
+58,"<startofstring>Show me the menu of Cafe Aylanto. <bot>: OVEN BAKED FISH, KALAMATA CHICKEN, SPICY LAMB CHOPS, MEXICAN BURGER, and FUDGE CAKE. <endofstring>"
+59,<startofstring>What type of cuisine does Andaaz Restaurant offer? <bot>: Andaaz Restaurant offers Pakistani cuisine <endofstring>
+60,"<startofstring> What is the location of Andaaz Restaurant? (Address) <bot>: Andaaz Restaurant is located at 2189 A Fort Road, Historic walled city Lahore, Lahore. <endofstring>"
+61,"<startofstring>tell me the Address of Andaaz Restaurant. <bot>: Andaaz Restaurant is located at 2189 A Fort Road, Historic walled city Lahore, Lahore. <endofstring>"
+62,<startofstring>What is the price range for dining at Andaaz Restaurant? <bot>: The price range at Andaaz Restaurant is very high <endofstring>
+63,<startofstring>What is the price range of dishes at Andaaz Restaurant? <bot>: The price range at Andaaz Restaurant is very high <endofstring>
+64,<startofstring> Tell me the price range of Andaaz Restaurant. <bot>: The price range at Andaaz Restaurant is very high <endofstring>
+65,<startofstring>What are the timings of Andaaz Restaurant? <bot>: Andaaz Restaurant is open from 06:00 AM to 11:45 PM. <endofstring>
+66,<startofstring>What are the opening and closing hours of Andaaz Restaurant? <bot>: Andaaz Restaurant is open from 06:00 AM to 11:45 PM. <endofstring>
+67,"<startofstring>Can I see the Andaaz restaurant's menu? <bot>: Bhuna Gosht, Chanp Bhuna, Murgh Tikka Masala, Lassi, and Nimbu Soda. <endofstring>"
+68,"<startofstring>What is the menu of Andaaz restaurant? <bot>: Bhuna Gosht, Chanp Bhuna, Murgh Tikka Masala, Lassi, and Nimbu Soda. <endofstring>"
+69,"<startofstring>Show me the menu of Andaaz restaurant. <bot>: Bhuna Gosht, Chanp Bhuna, Murgh Tikka Masala, Lassi, and Nimbu Soda. <endofstring>"
+70,"<startofstring>Can you recommend a restaurant with Italian, Cafe, and Fusion cuisine? <bot>: Arcadian Cafe is a great option, offering a variety of dishes like black pepper Asian, garlic butter steak, and more.<endofstring>"
+71,"<startofstring>Can you recommend an Italian restaurant? <bot>: Arcadian Cafe is a great option, offering a variety of dishes like black pepper Asian, garlic butter steak, and more.<endofstring>"
+72,"<startofstring>Recommend me a restaurant with Italian food? <bot>: Arcadian Cafe is a great option, offering a variety of dishes like black pepper Asian, garlic butter steak, and more.<endofstring>"
+73,"<startofstring>Any good places for Italian, Cafe, and Fusion dishes? <bot>: Arcadian Cafe is a great option, offering a variety of dishes like black pepper Asian, garlic butter steak, and more.<endofstring>"
+74,"<startofstring>Can you suggest a restaurant that offers Italian, Cafe, and Fusion cuisine? <bot>: Arcadian Cafe is a great option, offering a variety of dishes like black pepper Asian, garlic butter steak, and more.<endofstring>"
+75,"<startofstring>Recommend me an affordable restaurant <bot>: Veera 5 restaurant is a good choice, with a low price range for dishes like chicken chowmein and Thai chili paste chicken.<endofstring>"
+76,"<startofstring>Can you recommend places for affordable dining? <bot>: Veera 5 restaurant is a good choice, with a low price range for dishes like chicken chowmein and Thai chili paste chicken.<endofstring>"
+77,"<startofstring>Suggest a budget friendly dining option <bot>: Veera 5 restaurant is a good choice, with a low price range for dishes like chicken chowmein and Thai chili paste chicken.<endofstring>"
+78,"<startofstring>Suggest me a budget friendly restaurant <bot>: Veera 5 restaurant is a good choice, with a low price range for dishes like chicken chowmein and Thai chili paste chicken.<endofstring>"
+79,"<startofstring>What's a restaurant with barbecue, Asian, and Pakistani cuisine in Lahore? <bot>: Monal Lahore is popular, serving dishes like chicken gola kabab and mutton karahi.<endofstring>"
+80,"<startofstring>Suggest a place that offers Pakistani dishes. <bot>: Monal Lahore is popular, serving dishes like chicken gola kabab and mutton karahi.<endofstring>"
+81,"<startofstring>Can you recommend a restaurant that serves tasty barbecue? <bot>: Monal Lahore is popular, serving dishes like chicken gola kabab and mutton karahi.<endofstring>"
+82,"<startofstring>Suggest me a fast food restaurant <bot>: Pablo's is a good option with a low price range, offering dishes like fajita pasta and crispy chicken wrap.<endofstring>"
+83,"<startofstring>Any recommendations for a good fast-food place? <bot>: Pablo's is a good option with a low price range, offering dishes like fajita pasta and crispy chicken wrap.<endofstring>"
+84,"<startofstring>Can you suggest an expensive restaurant <bot>: Cafe Aylanto is a high-end option, featuring dishes like OVEN BAKED FISH and SPICY LAMB CHOPS.<endofstring>"
+85,"<startofstring>Where can I enjoy authentic Pakistani cuisine in Lahore? <bot>: Andaaz Restaurant is a top choice, offering dishes like Bhuna Gosht and Chanp Bhuna.<endofstring>"
+86,"<startofstring>Suggest me a Pakistani Restaurant <bot>: Andaaz Restaurant is a top choice, offering dishes like Bhuna Gosht and Chanp Bhuna.<endofstring>"
+87,"<startofstring>Suggest me a Restaurant with Pakistani food <bot>: Andaaz Restaurant is a top choice, offering dishes like Bhuna Gosht and Chanp Bhuna.<endofstring>"
